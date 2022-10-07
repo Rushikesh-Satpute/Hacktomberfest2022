@@ -2,6 +2,7 @@
   <head>
     <title>First WebPage</title>
     <meta content="">
+    <script>alert('Welcome');</script>
     <style></style>
   </head>
   <body>
